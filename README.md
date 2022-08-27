@@ -1,14 +1,21 @@
 ### Hi there 👋
 
+
+I’m learned ...
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+
+
+
+I’m currently learning ...
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+
 <!--
 **KJBig/KJBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
-file:///C:/Users/kjgi7/Downloads/c.svg <img alt="C" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=#A8B9CC"/>
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
