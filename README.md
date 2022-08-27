@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+file:///C:/Users/kjgi7/Downloads/c.svg <img alt="C" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=#A8B9CC"/>
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
