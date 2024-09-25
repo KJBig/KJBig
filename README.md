@@ -14,7 +14,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KJBig&show_icons=true&theme=dark)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjgi73k&slug=Springboot3에-Swagger3적용하기)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjgi73k&slug=Springboot3에-Swagger3적용하기)](https://velog.io/@kjgi73k/Springboot3에-Swagger3적용하기)
 
 <!--
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
